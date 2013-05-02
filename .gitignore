@@ -22,3 +22,5 @@ xcuserdata
 # Documentation
 documentation/*
 
+
+/framework/.idea/
